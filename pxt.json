@@ -1,5 +1,5 @@
 {
-    "name": "co2-sensor-scd40-mini",
+    "name": "co2-sensor-scd40",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -10,7 +10,9 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "SCD40.ts"
+        "SCD40.ts",
+        "_locales/de/co2-sensor-scd40-jsdoc-strings.json",
+        "_locales/de/co2-sensor-scd40-strings.json"
     ],
     "testFiles": [
         "test.ts"
